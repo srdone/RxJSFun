@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node node_modules/.bin/http-server"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Stephen Done",
+  "license": "MIT",
   "dependencies": {
     "http-server": "^0.9.0",
     "rx": "^4.1.0"
