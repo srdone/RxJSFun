@@ -1,0 +1,16 @@
+{
+  "name": "rxjs-fun",
+  "version": "1.0.0",
+  "description": "Fun with rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/.bin/http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "rx": "^4.1.0"
+  }
+}
