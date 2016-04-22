@@ -8,3 +8,6 @@ Copyrights apply to this source code. You may use the source code in your own pr
 used to create training material, courses, books, articles, and the like. We make no guarantees that this source code is fit for any purpose.
 
 This is just here for my purposes for playing with the code.
+
+##expanded_earthquake_example
+My own implementation starting from scratch of an earthquake monitor.

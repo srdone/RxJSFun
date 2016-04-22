@@ -13,5 +13,20 @@
     "http-server": "^0.9.0",
     "rx": "^4.1.0",
     "rx-dom": "^7.0.3"
+  },
+  "devDependencies": {
+    "jspm": "^0.16.33"
+  },
+  "jspm": {
+    "dependencies": {
+      "rx": "npm:rx@^4.1.0",
+      "rx-dom": "npm:rx-dom@^7.0.3"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4",
+      "typescript": "npm:typescript@^1.6.2"
+    }
   }
 }
