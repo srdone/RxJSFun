@@ -6,7 +6,6 @@ var quakes = Rx.DOM.jsonpRequest({
     return Rx.Observable.fromArray(dataset.response.features);
 })
 .map(function (quake) {
-    console.log(quake);
     return {
         lat: quake.geometry.coordinates[1],
         lng: quake.geometry.coordinates[0],
